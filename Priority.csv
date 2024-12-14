@@ -1,0 +1,5 @@
+Key,description,priority
+C,Critical,1
+H,High,2
+M,Medium,3
+L,Low,4
