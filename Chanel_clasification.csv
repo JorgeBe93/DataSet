@@ -1,0 +1,7 @@
+Chanel,Initial,Final,Clasification
+Online,1,600,Low
+Online,601,1000,Medium
+Online,1001,99999999,Higth
+Offline,1,1000,Low
+Offline,1001,5000,Medium
+Offline,5001,99999999,Higth
